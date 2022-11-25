@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyQAndAApp</string>
+    <string name="alert">تنبيه !</string>
+    <string name="continiomsg">\"الرجاء ادخال الاسم للاستمرار \"</string>
+    <string name="exsitconfirm">\"هل انت متاكد  من الخروج ؟؟ \"</string>
+    <string name="Start">ابدا المسابقة</string>
+    <string name="EnterName">أدخل اسمك</string>
+</resources>
